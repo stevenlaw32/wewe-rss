@@ -3,7 +3,7 @@
 
 <h1 align="center"><a href="https://github.com/cooderl/wewe-rss">WeWe RSS</a></h1>
 
-非常不错的微信订阅方式 ，非常非常不错。
+非常不错的微信订阅方式 ，非常非常不错。简洁又好用， 稳定又好用
 
 ![主界面](https://raw.githubusercontent.com/cooderl/wewe-rss/main/assets/preview1.png)
 
